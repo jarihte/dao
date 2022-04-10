@@ -1,0 +1,5 @@
+.vscode/*
+.history/
+src/*
+cache/*
+node_modules/*
